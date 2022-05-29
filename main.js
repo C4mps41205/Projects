@@ -1,6 +1,7 @@
 var a;
 var b;
 var c;
+var d;
 
 
 document.getElementById("botao").onclick = function(){
